@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "com.geeks.emil_maldybaev_hw3_3"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
